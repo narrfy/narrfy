@@ -1,10 +1,13 @@
-Hey there, Im Narrfy (or Nate)
-I’m interested in Game Software Development
-I’m currently learning all I can about Software Engineering and Game Development
+# Hey there, Im Narrfy (or Nate)
+- My goal in the future is to work in Game Developemnt as a Software Engineer
+- I’m currently studying Software Engineering
+- I'm also currently working on personal projects to learn more about Game Development
 
-Some projects I've worked on have been:
-  // Rock Paper Scissors - https://github.com/narrfy/RockPaperScissors-Identifier
-  // Spam Detection Model - https://github.com/narrfy/Spam_Detection_Model
+## Past Projects:
+  - [Rock Paper Scissors](https://github.com/narrfy/RockPaperScissors-Identifier)
+  - [Spam Detection Model](https://github.com/narrfy/Spam_Detection_Model)
 
-You can reach me through LinkedIn - [username.github.io](https://www.linkedin.com/in/nathanielbcarter/)
+## You can reach me through 
+- [LinkedIn](https://www.linkedin.com/in/nathanielbcarter/)
+- nathaniel.carter@western.edu
 
