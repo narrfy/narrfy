@@ -10,13 +10,6 @@
     - [Computer Vision Eye Tracking](https://github.com/narrfy/Comp_Vis_Eye_Tracking)
     - [Coin Flip Game](https://github.com/narrfy/Coin_Flip_Game)
 
-  - Game Jams
-    - Western Game Jam Spring 2025 (TBA)
-    - Western Game Jam Fall 2025 (TBA)
-    - Western Game Jam Spring 2026 (TBA)
-
-  - Side Projects
-    - (TBA)
 
 ## You can reach me through 
 - [LinkedIn](https://www.linkedin.com/in/nathanielbcarter/)
