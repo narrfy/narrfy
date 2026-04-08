@@ -11,7 +11,7 @@
     - [Coin Flip Game](https://github.com/narrfy/Coin_Flip_Game)
 
   - Game Jams
-  - [Freak Out](https://narrfy.itch.io/freak-out)
+    - [Freak Out](https://narrfy.itch.io/freak-out)
 
 ## You can reach me through 
 - [LinkedIn](https://www.linkedin.com/in/nathanielbcarter/)
